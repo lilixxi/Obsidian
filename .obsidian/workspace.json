@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d4caf445d005c449",
+    "type": "split",
+    "children": [
+      {
+        "id": "06865462baf434db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1b92538d33430a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78e6a2db2074bafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d2a31c45bdbbd07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e1c7e59bf5aab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "011de2f23aa8e669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "36211840267450aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b087b5c78ee36e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "162961778ad33e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7625001881ac959b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "1b2024283cfef9ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "e3ba7a6dae555238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "788ff420dd100785",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "9d1b92538d33430a",
+  "lastOpenFiles": [
+    "study/00.체크리스트/03.calendar/03.calendar.md",
+    "study/00.체크리스트/02.weekly/02.weekly.md",
+    "study/00.체크리스트/01.main/성빈.md",
+    "study/00.체크리스트/01.main/가희.md",
+    "study/06.코테/사이트.md",
+    "study/05.면접대비/용어정리.md",
+    "study/02.채용공고/채용공고 사이트.md",
+    "study/02.채용공고/공고정리.md",
+    "study/00.체크리스트/03.calendar",
+    "study/00.체크리스트/02.weekly",
+    "study/00.체크리스트/01.main",
+    "study/06.코테",
+    "study/05.면접대비",
+    "study/02.채용공고",
+    "study/00.체크리스트",
+    "study",
+    "2024-12-05.md",
+    "무제 파일.canvas",
+    "2024-12-06.md",
+    "README.md"
+  ]
+}
